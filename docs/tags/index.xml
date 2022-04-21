@@ -5,12 +5,12 @@
     
     
     
-    <link>/tags/</link>
+    <link>https://damianarata.github.io/tags/</link>
     <description>Recent content in Tags on Damian Arata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-us</language>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://damianarata.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
