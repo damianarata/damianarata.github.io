@@ -1,7 +1,7 @@
 ---
-title: "Showcase"
-date: "2019-01-18"
-author: "Lorem Ipsum"
+title: "Atajos"
+date: "2022-04-21"
+author: "Dami"
 ---
 
 ## Header 2
