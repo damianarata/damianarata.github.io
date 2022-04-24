@@ -34,48 +34,6 @@
     </item>
     
     <item>
-      <title>Atajos</title>
-      <link>https://damianarata.github.io/atajos/</link>
-      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://damianarata.github.io/atajos/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Header 2 #  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Sobre mi</title>
-      <link>https://damianarata.github.io/about/</link>
-      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://damianarata.github.io/about/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Hola!! #  Mi nombre es Damian, soy un cloud architect con experiencia en AWS, Kubernetes, Terraform, Docker y mas.
-Me podras encontrar por aca:
- Linkedin   Github   Certificaciones  
-          
-        
-        </description>
-    </item>
-    
-    <item>
       <title>Archive</title>
       <link>https://damianarata.github.io/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -90,6 +48,48 @@ Me podras encontrar por aca:
         
         
           
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Atajos</title>
+      <link>https://damianarata.github.io/atajos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://damianarata.github.io/atajos/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Crear un pod alpine e instalar telnet #  kubectl run -i --tty --rm debug --image=alpine --restart=Never -- sh; apk update; apk add busybox-extras 
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Sobre mi</title>
+      <link>https://damianarata.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://damianarata.github.io/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Hola!! #  Mi nombre es Damian, soy un cloud architect con experiencia en AWS, Kubernetes, Terraform, Docker y mas.
+Me podras encontrar por aca:
+ Linkedin   Github   Certificaciones  
           
         
         </description>

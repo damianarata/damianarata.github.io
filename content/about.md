@@ -1,10 +1,8 @@
 +++
 title = "Sobre mi"
-date = "2022-04-21"
-author = "Dami"
 +++
 
-# Hola!!
+## Hola!!
 
 Mi nombre es Damian, soy un cloud architect con experiencia en AWS, Kubernetes, Terraform, Docker y mas. 
 
