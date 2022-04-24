@@ -9,25 +9,25 @@
     <description>Recent content in Posts on Damian Arata</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-us</language>
-    <lastBuildDate>Wed, 17 Sep 1986 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://damianarata.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello Friend</title>
-      <link>https://damianarata.github.io/posts/hello/</link>
-      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
+      <title>Consejos y trucos para pasar las certificaciones de AWS</title>
+      <link>https://damianarata.github.io/posts/tips_tricks_aws/</link>
+      <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://damianarata.github.io/posts/hello/</guid>
+      <guid>https://damianarata.github.io/posts/tips_tricks_aws/</guid>
       <description>
         
-          &lt;img src=&#34;https://damianarata.github.io/static/img/hello.jpg&#34;/&gt;
+          &lt;img src=&#34;https://damianarata.github.io/static/img/aws_certs.png&#34;/&gt;
           
         
         
         
-          &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
+          Lo primero es descubrir por cual certificación comenzar acorde a tu perfil
           
         
         </description>

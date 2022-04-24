@@ -46,8 +46,8 @@ publishDir = "docs"
 
     [languages.en.params.logo]
       logoText = "Hola, bienvenido"
-      # logoHomeLink = "https://damianarata.github.io/"
-      logoHomeLink = "/"
+      logoHomeLink = "https://damianarata.github.io/"
+      # logoHomeLink = "/"
     # or
     #
     # path = "/img/your-example-logo.svg"
@@ -57,10 +57,10 @@ publishDir = "docs"
       [[languages.en.menu.main]]
         identifier = "about"
         name = "Sobre mi"
-        # url = "https://damianarata.github.io/about"
-        url = "/about"
+        url = "https://damianarata.github.io/about"
+        # url = "/about"
       [[languages.en.menu.main]]
         identifier = "atajos"
         name = "Atajos"
-        # url = "https://damianarata.github.io/atajos"
-        url = "/atajos"
+        url = "https://damianarata.github.io/atajos"
+        # url = "/atajos"
